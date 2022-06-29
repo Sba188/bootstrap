@@ -1,0 +1,35 @@
+.body{
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+.b{
+    background-color: #d95550;
+}
+.bg-boton{
+    background-color: #d67d7aab;
+}
+.time{
+    font-size: 7em;
+    font-weight: 600;
+    font-family: 'Dancing Script', cursive;
+
+    font-family: 'Diplomata SC', cursive;
+
+    font-family: 'PT Sans', sans-serif;
+
+    font-family: 'Smooch', cursive;
+}
+.star{
+    color: #d95550;
+    border-bottom: 5px solid #ccc;
+    font-size: 2em;
+    
+}
+.lugar{
+    border-style: dashed solid ;
+    background-color: #d95550;
+}
+
+.coler{
+        color: rgb(145, 255, 0);
+    border: 0px
+} 
