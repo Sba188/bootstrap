@@ -1,0 +1,87 @@
+.nav-item a {
+    color:#fff;
+}
+.nom{
+    color: #fff;
+}
+.img {
+    display: block;
+    margin: auto;
+    border: 0px;
+    margin-top: 150px;
+} 
+#titulo{
+    margin-top: 100px;
+    font-family: 'Dancing Script', cursive;
+
+    font-family: 'Diplomata SC', cursive;
+
+    font-family: 'League Gothic', sans-serif;
+
+    font-family: 'Merriweather', serif;
+
+    font-family: 'PT Sans', sans-serif;
+
+    font-family: 'PT Serif', serif;
+
+    font-family: 'Smooch', cursive;
+}
+.body{
+    font-size:x-large ;
+    font-family: 'Dancing Script', cursive;
+
+    font-family: 'Diplomata SC', cursive;
+
+    font-family: 'League Gothic', sans-serif;
+
+    font-family: 'Merriweather', serif;
+
+    font-family: 'PT Sans', sans-serif;
+
+    font-family: 'Smooch', cursive
+    
+}
+#nav{
+    font-family: 'Dancing Script', cursive;
+
+    font-family: 'Diplomata SC', cursive;
+
+    font-family: 'League Gothic', sans-serif;
+
+    font-family: 'Merriweather', serif;
+
+    font-family: 'PT Sans', sans-serif;
+
+    font-family: 'PT Serif', serif;
+
+    font-family: 'Smooch', cursive;
+
+    font-family: 'Splash', cursive;
+}
+#nom{
+    font-family: 'Dancing Script', cursive;
+
+    font-family: 'Diplomata SC', cursive;
+
+    font-family: 'League Gothic', sans-serif;
+
+    font-family: 'Merriweather', serif;
+
+    font-family: 'Noto Serif', serif;
+
+    font-family: 'PT Sans', sans-serif;
+
+    font-family: 'PT Serif', serif;
+
+    font-family: 'Smooch', cursive;
+
+    font-family: 'Splash', cursive;
+}
+.ab{
+    text-decoration: none;
+    color: red;
+}
+#boton{
+    
+    background-color: #fff;
+}
